@@ -3,9 +3,8 @@
     "description": "The only script in your head.",
     "homepage": "http://headjs.com",
     "license": "MIT",
-    "autoload": {
-         "files": [
-            "dist/1.0.0/head.min.js"
+    "include_path": 
+         [
+            "dist/1.0.0/"
         ]
-    }
 }
